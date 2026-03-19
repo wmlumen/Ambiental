@@ -1,0 +1,60 @@
+
+> educacion-ambiental-btca@1.0.0 predev
+> powershell -NoProfile -Command "$ErrorActionPreference='SilentlyContinue'; if (Test-Path '.next') { Remove-Item '.next' -Recurse -Force }; exit 0"
+
+
+> educacion-ambiental-btca@1.0.0 dev
+> next dev
+
+   ▲ Next.js 15.5.12
+   - Local:        http://localhost:3000
+   - Network:      http://10.233.242.251:3000
+
+ ✓ Starting...
+ ✓ Ready in 3.7s
+ ○ Compiling /cursos/[course] ...
+ ✓ Compiled /cursos/[course] in 11.9s (657 modules)
+ GET /cursos/primer-curso 200 in 17215ms
+ ○ Compiling /cursos/[course]/[subject] ...
+ ✓ Compiled /cursos/[course]/[subject]/[unit]/[lesson] in 7.1s (927 modules)
+ GET /cursos/primer-curso/biologia-general 200 in 12804ms
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades/leccion-01-fundamentos 200 in 10008ms
+ GET /cursos/primer-curso 200 in 333ms
+ GET /cursos/primer-curso/biologia-general 200 in 401ms
+ ✓ Compiled in 2.2s (927 modules)
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades/leccion-01-fundamentos 200 in 3048ms
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades/leccion-01-fundamentos 200 in 1011ms
+ ✓ Compiled in 2.2s (941 modules)
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades/leccion-01-fundamentos 200 in 1388ms
+ ○ Compiling /mapa-web ...
+ ✓ Compiled /mapa-web in 1585ms (929 modules)
+ GET /mapa-web 200 in 3558ms
+ ✓ Compiled in 1362ms (935 modules)
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades/leccion-01-fundamentos 200 in 1526ms
+ ✓ Compiled in 996ms (933 modules)
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades/leccion-01-fundamentos 200 in 1699ms
+ GET /cursos/primer-curso/agroecologia/principios-agroecologia/leccion-01-fundamentos 200 in 895ms
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades/leccion-01-fundamentos 200 in 772ms
+ ○ Compiling /arquitectura ...
+ ✓ Compiled /arquitectura in 1358ms (924 modules)
+ ○ Compiling /mapa-web ...
+ ✓ Compiled /mapa-web in 711ms (699 modules)
+ GET /arquitectura 200 in 4263ms
+ GET /mapa-web 200 in 2982ms
+ ○ Compiling /cursos ...
+ ✓ Compiled /cursos in 935ms (932 modules)
+ GET /cursos 200 in 1928ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1170ms (945 modules)
+ GET / 200 in 2141ms
+ GET / 200 in 227ms
+ ✓ Compiled in 1594ms (955 modules)
+ GET / 200 in 1236ms
+ GET / 200 in 876ms
+ GET / 200 in 310ms
+ GET / 200 in 322ms
+ GET / 200 in 328ms
+ GET / 200 in 217ms
+ GET / 200 in 523ms
+ GET / 200 in 217ms
+ GET / 200 in 317ms

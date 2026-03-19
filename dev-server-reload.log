@@ -1,0 +1,79 @@
+
+> educacion-ambiental-btca@1.0.0 predev
+> powershell -NoProfile -Command "$ErrorActionPreference='SilentlyContinue'; if (Test-Path '.next') { Remove-Item '.next' -Recurse -Force }; exit 0"
+
+
+> educacion-ambiental-btca@1.0.0 dev
+> next dev
+
+   ▲ Next.js 15.5.12
+   - Local:        http://localhost:3000
+   - Network:      http://10.233.242.251:3000
+
+ ✓ Starting...
+ ✓ Ready in 3.9s
+ ○ Compiling /cursos/[course]/[subject] ...
+ ✓ Compiled /cursos/[course]/[subject] in 12.1s (931 modules)
+ ○ Compiling / ...
+ GET /cursos/segundo-curso/administracion-ambiental 200 in 17198ms
+ ✓ Compiled / in 4.9s (946 modules)
+ GET / 200 in 6030ms
+ GET /cursos/segundo-curso/administracion-ambiental 200 in 813ms
+ ○ Compiling /cursos/[course] ...
+ ✓ Compiled /cursos/[course] in 3.3s (938 modules)
+ GET /cursos/primer-curso 200 in 7004ms
+ GET /cursos/primer-curso/administracion-ambiental 200 in 503ms
+ GET /cursos/primer-curso/administracion-ambiental 200 in 664ms
+ GET /cursos/primer-curso/administracion-ambiental 200 in 497ms
+ ○ Compiling /cursos ...
+ ✓ Compiled /cursos in 2.3s (940 modules)
+ GET /cursos 200 in 3258ms
+ GET /cursos 200 in 491ms
+ GET / 200 in 444ms
+ GET /cursos/primer-curso 200 in 530ms
+ GET /cursos/primer-curso 200 in 455ms
+ GET /cursos/primer-curso 200 in 359ms
+ GET /cursos/primer-curso 200 in 340ms
+ GET /cursos/primer-curso 200 in 485ms
+ GET /cursos/primer-curso 200 in 454ms
+ GET /cursos/primer-curso/administracion-ambiental 200 in 483ms
+ GET /cursos/primer-curso/administracion-ambiental 200 in 540ms
+ GET /cursos 200 in 63ms
+ GET /cursos/primer-curso 200 in 144ms
+ GET /cursos/primer-curso/meteorologia 200 in 163ms
+ GET /cursos 200 in 54ms
+ GET /cursos/primer-curso 200 in 115ms
+ GET / 200 in 146ms
+ ○ Compiling /recursos ...
+ ✓ Compiled /recursos in 1811ms (944 modules)
+ GET /recursos 200 in 2616ms
+ GET /recursos 200 in 195ms
+ GET /recursos 200 in 243ms
+ GET / 200 in 901ms
+ GET /cursos 200 in 91ms
+ GET /cursos/tercer-curso 200 in 181ms
+ GET /cursos 200 in 56ms
+ GET /cursos 200 in 69ms
+ GET /cursos/segundo-curso 200 in 126ms
+ GET /cursos/segundo-curso/administracion-ambiental 200 in 409ms
+ ○ Compiling /cursos/[course]/[subject]/[unit] ...
+ ✓ Compiled /cursos/[course]/[subject]/[unit] in 1677ms (946 modules)
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades 200 in 4355ms
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades 200 in 133ms
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades 200 in 912ms
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades 200 in 758ms
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades 200 in 361ms
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades 200 in 376ms
+ ○ Compiling /cursos/[course]/[subject]/[unit]/[lesson] ...
+ ✓ Compiled /cursos/[course]/[subject]/[unit]/[lesson] in 2s (941 modules)
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades/leccion-01-fundamentos 200 in 6192ms
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades/leccion-01-fundamentos 200 in 981ms
+ ✓ Compiled in 4s (243 modules)
+ ✓ Compiled in 1418ms (243 modules)
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades/leccion-01-fundamentos 200 in 1950ms
+ GET /cursos/segundo-curso/administracion-ambiental/actores-y-responsabilidades/leccion-01-fundamentos 200 in 2163ms
+ GET /cursos/primer-curso 200 in 815ms
+ GET /cursos/primer-curso/biologia-general 404 in 535ms
+[?25h
+
+C:\Users\Administrator\Documents\MEC 2026\2025 BTCA 2do. Educ. Ambiental>

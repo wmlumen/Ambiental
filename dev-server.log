@@ -1,0 +1,200 @@
+
+> educacion-ambiental-btca@1.0.0 predev
+> powershell -NoProfile -Command "$ErrorActionPreference='SilentlyContinue'; if (Test-Path '.next') { Remove-Item '.next' -Recurse -Force }; exit 0"
+
+
+> educacion-ambiental-btca@1.0.0 dev
+> next dev
+
+   ▲ Next.js 15.5.12
+   - Local:        http://localhost:3000
+   - Network:      http://10.233.242.251:3000
+
+ ✓ Starting...
+ ✓ Ready in 4.4s
+ ○ Compiling / ...
+ ✓ Compiled / in 15.2s (659 modules)
+ GET / 200 in 17954ms
+ ○ Compiling /cursos/[course] ...
+ ✓ Compiled /cursos/[course] in 2.5s (673 modules)
+ GET /cursos/primer-curso 200 in 6095ms
+ ○ Compiling /cursos/[course]/[subject] ...
+ ✓ Compiled /cursos/[course]/[subject] in 3.9s (935 modules)
+ GET /cursos/primer-curso/administracion-ambiental 200 in 8141ms
+ ○ Compiling /cursos/[course]/[subject]/[unit]/[lesson] ...
+ ✓ Compiled /cursos/[course]/[subject]/[unit]/[lesson] in 852ms (939 modules)
+ GET /cursos/primer-curso/administracion-ambiental/recursos-naturales/leccion-01-fundamentos 200 in 5361ms
+ GET / 200 in 421ms
+ GET /cursos/primer-curso 200 in 363ms
+ GET /cursos/primer-curso/administracion-ambiental 200 in 516ms
+ GET /cursos/primer-curso/administracion-ambiental/recursos-naturales/leccion-01-fundamentos 200 in 1019ms
+ GET /cursos/primer-curso/administracion-ambiental/recursos-naturales/leccion-01-fundamentos 200 in 968ms
+ GET /cursos/primer-curso/administracion-ambiental/recursos-naturales/leccion-01-fundamentos 200 in 570ms
+ GET /cursos/primer-curso/administracion-ambiental/recursos-naturales/leccion-01-fundamentos 200 in 784ms
+ GET /cursos/primer-curso/educacion-ambiental 200 in 901ms
+ GET / 200 in 113ms
+ GET / 200 in 283ms
+ GET / 200 in 275ms
+ ✓ Compiled in 2.8s (662 modules)
+ GET / 200 in 971ms
+ ○ Compiling /cursos/[course] ...
+ ✓ Compiled /cursos/[course] in 753ms (432 modules)
+ GET /cursos/tercer-curso 200 in 3163ms
+ GET / 200 in 144ms
+ GET / 200 in 460ms
+ ○ Compiling /cursos/[course]/[subject]/[unit]/[lesson] ...
+ ✓ Compiled /cursos/[course]/[subject]/[unit]/[lesson] in 2.1s (702 modules)
+ GET /cursos/primer-curso/administracion-ambiental/recursos-naturales/leccion-02-aplicacion 200 in 4467ms
+ GET /cursos/primer-curso/administracion-ambiental/recursos-naturales/leccion-02-aplicacion 200 in 422ms
+ GET /cursos/primer-curso/administracion-ambiental/recursos-naturales/leccion-02-aplicacion 200 in 878ms
+ ✓ Compiled in 2.2s (243 modules)
+ ✓ Compiled in 559ms (243 modules)
+ GET /cursos/primer-curso/administracion-ambiental/recursos-naturales/leccion-02-aplicacion 200 in 1354ms
+ GET /cursos/primer-curso/administracion-ambiental/recursos-naturales/leccion-02-aplicacion 200 in 556ms
+ ✓ Compiled in 2.9s (945 modules)
+ GET /cursos/primer-curso/administracion-ambiental/recursos-naturales/leccion-02-aplicacion 200 in 2326ms
+ ✓ Compiled in 2.2s (931 modules)
+ ○ Compiling /cursos/[course]/[subject]/[unit] ...
+ GET /cursos/primer-curso/administracion-ambiental/recursos-naturales/leccion-02-aplicacion 200 in 4356ms
+ ✓ Compiled /cursos/[course]/[subject]/[unit] in 2.1s (933 modules)
+ ○ Compiling /glosario ...
+ GET /cursos/primer-curso/administracion-ambiental/recursos-naturales 200 in 9269ms
+ ✓ Compiled /glosario in 3.6s (936 modules)
+ GET /glosario 200 in 4936ms
+ GET /cursos/primer-curso/administracion-ambiental/recursos-naturales 200 in 4987ms
+ GET /glosario 200 in 365ms
+ ○ Compiling /recursos ...
+ ✓ Compiled /recursos in 1313ms (938 modules)
+ GET /recursos 200 in 1653ms
+ GET /recursos 200 in 84ms
+ GET /recursos 200 in 66ms
+ GET / 200 in 476ms
+ GET / 200 in 362ms
+ GET /recursos 200 in 75ms
+ GET /recursos 200 in 44ms
+ GET /glosario 200 in 161ms
+ ✓ Compiled in 2.6s (952 modules)
+ GET /glosario 200 in 823ms
+ GET /recursos 200 in 64ms
+ GET /recursos 200 in 320ms
+ GET /recursos 200 in 428ms
+ GET / 200 in 548ms
+ ✓ Compiled in 1503ms (243 modules)
+ GET / 200 in 200ms
+ GET /recursos 200 in 94ms
+ ✓ Compiled in 2.2s (952 modules)
+ GET /recursos 200 in 174ms
+ GET /recursos 200 in 267ms
+ GET / 200 in 907ms
+ ○ Compiling /cursos/[course] ...
+ ✓ Compiled /cursos/[course] in 2.4s (714 modules)
+ GET /cursos/primer-curso 200 in 4039ms
+ GET /cursos/primer-curso 200 in 336ms
+ ✓ Compiled in 681ms (243 modules)
+ ✓ Compiled in 1660ms (958 modules)
+ GET /cursos/primer-curso 200 in 2599ms
+ GET /cursos/primer-curso 200 in 179ms
+ GET /glosario 200 in 813ms
+ GET /glosario 200 in 2045ms
+ GET /recursos 200 in 371ms
+ GET /glosario 200 in 2894ms
+ GET /glosario 200 in 4268ms
+ ✓ Compiled in 2.2s (949 modules)
+ GET /glosario 200 in 896ms
+ GET /glosario 200 in 2843ms
+ ✓ Compiled in 2.2s (949 modules)
+ GET /glosario 200 in 1011ms
+ ✓ Compiled in 1785ms (949 modules)
+ GET /glosario 200 in 951ms
+ GET /glosario 200 in 2984ms
+ ✓ Compiled in 2.3s (949 modules)
+ GET /glosario 200 in 1121ms
+ GET /recursos 200 in 532ms
+ ○ Compiling /arquitectura ...
+ ✓ Compiled /arquitectura in 2.9s (940 modules)
+ GET /arquitectura 200 in 4263ms
+ GET /glosario 200 in 2229ms
+ GET /glosario 200 in 1862ms
+ GET /recursos 200 in 140ms
+ GET /recursos 200 in 163ms
+ ✓ Compiled in 2.9s (950 modules)
+ GET /recursos 200 in 395ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1977ms (715 modules)
+ GET / 200 in 3306ms
+ GET / 200 in 167ms
+ GET / 200 in 93ms
+ GET / 200 in 73ms
+ GET / 200 in 98ms
+ ✓ Compiled in 2.5s (684 modules)
+ GET / 200 in 963ms
+ GET /glosario 200 in 8169ms
+ GET / 200 in 309ms
+ GET /glosario 200 in 6189ms
+ GET /glosario 200 in 4251ms
+ GET /recursos 200 in 574ms
+ GET /glosario 200 in 7081ms
+ GET /glosario 200 in 4926ms
+ ○ Compiling /cursos ...
+ ✓ Compiled /cursos in 2.6s (672 modules)
+ GET /cursos 200 in 3586ms
+ GET /recursos 200 in 224ms
+ GET /glosario 200 in 2669ms
+ GET /glosario 200 in 3438ms
+ GET /glosario 200 in 2584ms
+ GET /glosario 200 in 1722ms
+ ✓ Compiled in 1671ms (244 modules)
+ GET /glosario 200 in 1852ms
+ ✓ Compiled in 3.2s (684 modules)
+ ✓ Compiled in 3.1s (685 modules)
+ GET /glosario 200 in 6176ms
+ GET /glosario 200 in 1768ms
+ ✓ Compiled in 944ms (685 modules)
+ GET /glosario 200 in 1070ms
+ GET / 200 in 1282ms
+ GET /recursos 200 in 276ms
+ GET /glosario 200 in 1023ms
+ GET /glosario 200 in 1607ms
+ GET / 200 in 98ms
+ GET / 200 in 354ms
+ GET / 200 in 314ms
+ GET /cursos/primer-curso 200 in 231ms
+ GET / 200 in 106ms
+ ✓ Compiled in 1610ms (244 modules)
+ GET / 200 in 185ms
+ ✓ Compiled in 2.4s (686 modules)
+ GET / 200 in 725ms
+ GET /recursos 200 in 773ms
+ GET / 200 in 534ms
+ GET /recursos 200 in 214ms
+ ✓ Compiled in 896ms (244 modules)
+ GET /recursos 200 in 584ms
+ ✓ Compiled in 2.1s (687 modules)
+ GET /recursos 200 in 446ms
+ ✓ Compiled in 3s (687 modules)
+ GET /recursos 200 in 361ms
+ GET / 200 in 487ms
+ GET /cursos/segundo-curso 200 in 230ms
+ ✓ Compiled in 1574ms (687 modules)
+ GET /cursos/segundo-curso 200 in 904ms
+ GET /recursos 200 in 1050ms
+ GET / 200 in 519ms
+ GET /cursos/segundo-curso 200 in 694ms
+ ✓ Compiled in 1374ms (687 modules)
+ GET /cursos/segundo-curso 200 in 990ms
+ ✓ Compiled /cursos/[course]/[subject] in 2.7s (687 modules)
+ ✓ Compiled (961 modules)
+ GET /cursos/segundo-curso/administracion-ambiental 200 in 5660ms
+ GET /cursos/segundo-curso/administracion-ambiental 200 in 666ms
+ GET /cursos/segundo-curso/administracion-ambiental 200 in 766ms
+ GET /cursos/segundo-curso/administracion-ambiental 200 in 435ms
+ GET /recursos 200 in 1322ms
+ GET / 200 in 173ms
+ GET /cursos/segundo-curso/administracion-ambiental 200 in 677ms
+ ✓ Compiled in 833ms (244 modules)
+ GET / 200 in 322ms
+ GET /cursos/segundo-curso/administracion-ambiental 200 in 719ms
+ GET / 200 in 745ms
+ GET /cursos/segundo-curso/administracion-ambiental 200 in 426ms
+ GET /recursos 200 in 414ms
+[?25h

@@ -1,0 +1,17 @@
+{
+  "version": "0.2",
+  "language": "en,es,pt",
+  "words": [
+    "Vercel",
+    "Nextjs",
+    "frontend",
+    "backend"
+  ],
+  "ignorePaths": [
+    "node_modules",
+    ".next",
+    "dist",
+    "build",
+    "coverage"
+  ]
+}
