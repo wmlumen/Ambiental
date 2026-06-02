@@ -1,6 +1,5 @@
 import Link from "next/link";
-
-const basePath = "/Ambiental";
+import { basePath } from "@/lib/paths";
 
 export default function NotFound() {
   return (

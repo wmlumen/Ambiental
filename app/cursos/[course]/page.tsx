@@ -1,8 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getCourse, getCourses, getSubjects } from "@/lib/content";
-
-const basePath = "/Ambiental";
+import { basePath } from "@/lib/paths";
 
 export function generateStaticParams() {
   return getCourses().map((c) => ({ course: c.slug }));

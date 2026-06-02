@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { getCourses, getSubjects, getUnits, getLessons } from "@/lib/content";
-
-const basePath = "/Ambiental";
+import { basePath } from "@/lib/paths";
 
 export default function MapaWebPage() {
   const courses = getCourses();

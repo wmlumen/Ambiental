@@ -3,8 +3,7 @@ import { notFound } from "next/navigation";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { getAllLessons, getLesson, getSubject, getUnits } from "@/lib/content";
-
-const basePath = "/Ambiental";
+import { basePath } from "@/lib/paths";
 
 export function generateStaticParams() {
   return getAllLessons().map((l) => ({

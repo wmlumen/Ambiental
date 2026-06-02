@@ -1,6 +1,7 @@
 import path from "node:path";
 
 const isProduction = process.env.NODE_ENV === "production";
+const isGitHubPages = process.env.GITHUB_PAGES === "true";
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -10,7 +11,7 @@ const nextConfig = {
   },
   outputFileTracingRoot: path.resolve("./"),
   output: isProduction ? "export" : undefined,
-  basePath: isProduction ? "/Ambiental" : "",
+  basePath: isGitHubPages ? "/Ambiental" : "",
   trailingSlash: true
 };
 

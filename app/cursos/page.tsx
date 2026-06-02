@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { getCourses, getSubjects } from "@/lib/content";
-
-const basePath = "/Ambiental";
+import { basePath } from "@/lib/paths";
 
 export default function CursosPage() {
   const courses = getCourses();
