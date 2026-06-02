@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **genética, herencia, adaptación.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **genética, herencia, adaptación.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **genética**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **adaptación**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

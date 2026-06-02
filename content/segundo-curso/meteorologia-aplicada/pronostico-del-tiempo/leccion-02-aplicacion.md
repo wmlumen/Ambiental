@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **pronóstico, modelos, mapas.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **pronóstico, modelos, mapas.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **pronóstico**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **mapas**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

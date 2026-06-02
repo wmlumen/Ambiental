@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **mitigación, compensación, planes.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **mitigación, compensación, planes.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **mitigación**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **planes**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

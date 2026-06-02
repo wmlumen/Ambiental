@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **costos, beneficios, decisiones.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **costos, beneficios, decisiones.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **costos**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **decisiones**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

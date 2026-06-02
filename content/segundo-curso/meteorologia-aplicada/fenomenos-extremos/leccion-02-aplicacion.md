@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **fenómenos extremos, riesgo, prevención.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **fenómenos extremos, riesgo, prevención.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **fenómenos extremos**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **prevención**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

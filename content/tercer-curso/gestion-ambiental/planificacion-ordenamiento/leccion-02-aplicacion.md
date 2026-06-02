@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **planificación, ordenamiento, territorio.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **planificación, ordenamiento, territorio.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **planificación**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **territorio**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **biodiversidad, Paraguay, conservación.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **biodiversidad, Paraguay, conservación.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **biodiversidad**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **conservación**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

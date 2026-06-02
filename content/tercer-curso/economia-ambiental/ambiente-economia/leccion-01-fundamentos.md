@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **ambiente, economía, recursos.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **ambiente, economía, recursos.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **ambiente**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **recursos**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

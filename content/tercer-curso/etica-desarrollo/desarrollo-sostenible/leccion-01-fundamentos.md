@@ -112,8 +112,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **desarrollo sostenible, dimensiones.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **desarrollo sostenible, dimensiones.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **desarrollo sostenible**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **dimensiones**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

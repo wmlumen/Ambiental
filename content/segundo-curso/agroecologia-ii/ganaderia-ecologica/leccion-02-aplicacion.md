@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **ganadería, silvopastoril, bienestar animal.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **ganadería, silvopastoril, bienestar animal.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **ganadería**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **bienestar animal**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

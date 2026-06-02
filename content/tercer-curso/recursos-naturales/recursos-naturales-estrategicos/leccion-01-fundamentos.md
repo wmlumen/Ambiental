@@ -116,8 +116,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **recursos, agua, bosques, biodiversidad.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **recursos, agua, bosques, biodiversidad.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **recursos**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **biodiversidad**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

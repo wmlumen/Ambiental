@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **diagnóstico, participación, cartografía.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **diagnóstico, participación, cartografía.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **diagnóstico**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **cartografía**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **ética, valores, justicia.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **ética, valores, justicia.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **ética**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **justicia**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

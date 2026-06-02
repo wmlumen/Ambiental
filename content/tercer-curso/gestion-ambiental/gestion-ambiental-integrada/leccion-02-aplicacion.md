@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **gestión, sistema, actores.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **gestión, sistema, actores.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **gestión**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **actores**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

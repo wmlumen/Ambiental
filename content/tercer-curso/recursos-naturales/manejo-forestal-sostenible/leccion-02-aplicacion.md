@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **bosques, manejo, reforestación.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **bosques, manejo, reforestación.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **bosques**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **reforestación**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

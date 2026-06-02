@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **evaluación, mejora, resultados.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **evaluación, mejora, resultados.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **evaluación**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **resultados**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

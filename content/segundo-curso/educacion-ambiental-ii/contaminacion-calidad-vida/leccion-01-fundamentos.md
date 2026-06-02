@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **contaminación, calidad de vida, fuentes.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **contaminación, calidad de vida, fuentes.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **contaminación**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **fuentes**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

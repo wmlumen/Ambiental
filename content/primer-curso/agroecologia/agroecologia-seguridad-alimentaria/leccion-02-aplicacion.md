@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **seguridad alimentaria, huertas, nutrición.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **seguridad alimentaria, huertas, nutrición.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **seguridad alimentaria**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **nutrición**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

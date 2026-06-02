@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **impactos, matrices, valoración.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **impactos, matrices, valoración.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **impactos**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **valoración**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

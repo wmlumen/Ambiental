@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **evaluación, indicadores, impactos.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **evaluación, indicadores, impactos.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **evaluación**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **impactos**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

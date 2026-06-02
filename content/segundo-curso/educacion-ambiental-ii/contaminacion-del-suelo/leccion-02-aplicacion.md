@@ -123,8 +123,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **suelo, contaminación, urbano, industrial.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **suelo, contaminación, urbano, industrial.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **suelo**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **industrial**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

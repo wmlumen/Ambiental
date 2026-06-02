@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **concienciación, radio, comunicación.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **concienciación, radio, comunicación.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **concienciación**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **comunicación**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

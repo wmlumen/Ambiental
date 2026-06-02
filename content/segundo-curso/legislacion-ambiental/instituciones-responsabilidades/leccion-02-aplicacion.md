@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **instituciones, responsabilidades, ambiente.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **instituciones, responsabilidades, ambiente.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **instituciones**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **ambiente**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

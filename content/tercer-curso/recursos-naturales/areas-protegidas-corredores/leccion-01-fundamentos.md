@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **áreas protegidas, corredores, conservación.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **áreas protegidas, corredores, conservación.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **áreas protegidas**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **conservación**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

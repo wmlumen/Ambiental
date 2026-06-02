@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **problemas socioambientales, conflictos, desigualdad.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **problemas socioambientales, conflictos, desigualdad.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **problemas socioambientales**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **desigualdad**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **problema, pregunta, investigación.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **problema, pregunta, investigación.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **problema**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **investigación**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

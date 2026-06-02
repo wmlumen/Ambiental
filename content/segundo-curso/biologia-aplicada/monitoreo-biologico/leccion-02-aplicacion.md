@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **monitoreo, bioindicadores, muestreo.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **monitoreo, bioindicadores, muestreo.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **monitoreo**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **muestreo**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

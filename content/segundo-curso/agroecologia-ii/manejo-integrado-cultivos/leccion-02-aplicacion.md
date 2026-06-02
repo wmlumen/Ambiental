@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **policultivos, rotación, cobertura.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **policultivos, rotación, cobertura.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **policultivos**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **cobertura**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

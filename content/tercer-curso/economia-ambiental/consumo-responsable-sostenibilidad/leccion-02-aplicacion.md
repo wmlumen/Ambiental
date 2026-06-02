@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **consumo, residuos, economía circular.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **consumo, residuos, economía circular.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **consumo**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **economía circular**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

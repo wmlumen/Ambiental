@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **transición, convencional, ecológica.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **transición, convencional, ecológica.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **transición**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **ecológica**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **ISO 14001, auditoría, mejora continua.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **ISO 14001, auditoría, mejora continua.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **ISO 14001**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **mejora continua**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

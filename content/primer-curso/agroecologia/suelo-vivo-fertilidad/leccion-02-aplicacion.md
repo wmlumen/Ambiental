@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **suelo, materia orgánica, fertilidad.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **suelo, materia orgánica, fertilidad.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **suelo**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **fertilidad**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

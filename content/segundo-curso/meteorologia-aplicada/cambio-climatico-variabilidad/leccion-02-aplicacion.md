@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **cambio climático, adaptación, Paraguay.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **cambio climático, adaptación, Paraguay.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **cambio climático**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **Paraguay**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

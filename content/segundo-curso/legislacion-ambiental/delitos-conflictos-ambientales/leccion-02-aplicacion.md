@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **delitos ambientales, conflictos, consecuencias.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **delitos ambientales, conflictos, consecuencias.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **delitos ambientales**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **consecuencias**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

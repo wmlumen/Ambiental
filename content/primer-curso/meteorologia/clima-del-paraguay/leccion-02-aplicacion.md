@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **clima, Paraguay, regiones.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **clima, Paraguay, regiones.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **clima**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **regiones**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

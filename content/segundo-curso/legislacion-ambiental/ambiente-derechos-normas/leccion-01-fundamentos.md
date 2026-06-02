@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **ambiente, derechos, normas.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **ambiente, derechos, normas.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **ambiente**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **normas**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

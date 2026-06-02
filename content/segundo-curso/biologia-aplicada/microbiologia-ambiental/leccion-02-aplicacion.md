@@ -123,8 +123,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **microbiología, suelo, agua, descomposición.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **microbiología, suelo, agua, descomposición.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **microbiología**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **descomposición**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

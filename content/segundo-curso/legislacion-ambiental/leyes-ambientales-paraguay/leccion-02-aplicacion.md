@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **leyes ambientales, Paraguay, protección.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **leyes ambientales, Paraguay, protección.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **leyes ambientales**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **protección**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

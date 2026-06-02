@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **seres vivos, funciones vitales, reproducción.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **seres vivos, funciones vitales, reproducción.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **seres vivos**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **reproducción**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

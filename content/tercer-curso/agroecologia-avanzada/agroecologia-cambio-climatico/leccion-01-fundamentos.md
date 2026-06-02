@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **agroecología, cambio climático, adaptación.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **agroecología, cambio climático, adaptación.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **agroecología**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **adaptación**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

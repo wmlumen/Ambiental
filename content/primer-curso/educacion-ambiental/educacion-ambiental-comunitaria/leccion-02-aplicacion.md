@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **educación, comunidad, acciones escolares.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **educación, comunidad, acciones escolares.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **educación**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **acciones escolares**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

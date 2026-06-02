@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **observación, registro, datos.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **observación, registro, datos.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **observación**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **datos**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

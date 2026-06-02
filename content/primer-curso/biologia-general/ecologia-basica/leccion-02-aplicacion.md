@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **ecología, ecosistema, comunidad.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **ecología, ecosistema, comunidad.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **ecología**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **comunidad**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

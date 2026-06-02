@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **comercialización, certificación, mercados.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **comercialización, certificación, mercados.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **comercialización**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **mercados**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

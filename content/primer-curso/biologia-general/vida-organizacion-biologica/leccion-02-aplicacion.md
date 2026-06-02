@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **vida, organización biológica, célula.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **vida, organización biológica, célula.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **vida**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **célula**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

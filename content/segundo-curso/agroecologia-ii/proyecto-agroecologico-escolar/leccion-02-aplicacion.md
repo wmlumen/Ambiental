@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **proyecto, huerta escolar, ejecución.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **proyecto, huerta escolar, ejecución.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **proyecto**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **ejecución**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **ambiente, ecosistemas, ecología.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **ambiente, ecosistemas, ecología.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **ambiente**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **ecología**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

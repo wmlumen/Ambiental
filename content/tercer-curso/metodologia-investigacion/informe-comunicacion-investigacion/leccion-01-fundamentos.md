@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **informe, comunicación, resultados.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **informe, comunicación, resultados.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **informe**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **resultados**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **cuencas, agua, gestión.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **cuencas, agua, gestión.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **cuencas**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **gestión**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

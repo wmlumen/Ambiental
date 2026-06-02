@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **bienes comunes, valor, cuidado.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **bienes comunes, valor, cuidado.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **bienes comunes**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **cuidado**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

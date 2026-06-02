@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **economía, proyecto, viabilidad.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **economía, proyecto, viabilidad.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **economía**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **viabilidad**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

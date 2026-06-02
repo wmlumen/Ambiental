@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **enfermedades, agua, vectores.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **enfermedades, agua, vectores.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **enfermedades**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **vectores**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

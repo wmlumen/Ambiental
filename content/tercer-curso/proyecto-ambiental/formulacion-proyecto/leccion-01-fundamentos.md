@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **formulación, proyecto, marco lógico.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **formulación, proyecto, marco lógico.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **formulación**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **marco lógico**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

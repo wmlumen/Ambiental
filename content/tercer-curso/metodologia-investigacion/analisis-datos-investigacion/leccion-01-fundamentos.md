@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **análisis, datos, conclusiones.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **análisis, datos, conclusiones.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **análisis**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **conclusiones**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

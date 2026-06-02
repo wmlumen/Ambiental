@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **tormentas, sequías, inundaciones.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **tormentas, sequías, inundaciones.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **tormentas**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **inundaciones**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

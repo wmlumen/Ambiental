@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **conservación, manejo, comunidad.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **conservación, manejo, comunidad.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **conservación**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **comunidad**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

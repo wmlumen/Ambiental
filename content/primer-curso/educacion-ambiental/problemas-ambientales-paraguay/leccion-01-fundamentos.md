@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **Paraguay, deforestación, contaminación hídrica.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **Paraguay, deforestación, contaminación hídrica.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **Paraguay**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **contaminación hídrica**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

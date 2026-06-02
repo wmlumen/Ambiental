@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **extensión, comunicación, rural.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **extensión, comunicación, rural.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **extensión**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **rural**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

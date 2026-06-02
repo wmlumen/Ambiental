@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **equidad, justicia, acceso.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **equidad, justicia, acceso.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **equidad**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **acceso**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

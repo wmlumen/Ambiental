@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **plagas, control biológico, rotación.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **plagas, control biológico, rotación.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **plagas**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **rotación**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

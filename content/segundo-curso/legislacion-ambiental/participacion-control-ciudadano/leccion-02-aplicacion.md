@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **participación, control ciudadano, denuncia.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **participación, control ciudadano, denuncia.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **participación**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **denuncia**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

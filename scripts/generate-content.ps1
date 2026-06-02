@@ -11,6 +11,9 @@ function New-LessonContent($subjectTitle, $unitTitle, $unitDesc, $unitOrder, $le
   $lessonDesc = if ($lessonOrder -eq 1) { "Microlección inicial centrada en conceptos base, objetivos y comprensión del tema." } else { "Microlección aplicada centrada en propuesta, organización de acciones y seguimiento." }
   $topicBullets = ($topics -split ',\s*' | ForEach-Object { "  - $_" }) -join "`n"
   $topicList = ($topics -split ',\s*' | ForEach-Object { "- $_" }) -join "`n"
+  $topicArray = $topics -split ',\s*'
+  $topicFirst = $topicArray[0]
+  $topicLast = $topicArray[-1]
 
   $departamentos = @("Central", "Alto Paraná", "Itapúa", "Caaguazú", "San Pedro", "Cordillera", "Paraguarí", "Guairá", "Concepción", "Canindeyú", "Presidente Hayes", "Boquerón", "Alto Paraguay", "Ñeembucú", "Amambay", "Misiones", "Caazapá")
   $depto1 = $departamentos[$unitOrder % $departamentos.Count]
@@ -164,8 +167,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **$topics.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **$topics.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **$topicFirst**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **$topicLast**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

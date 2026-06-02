@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **comunicación, informe, presentación.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **comunicación, informe, presentación.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **comunicación**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **presentación**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

@@ -112,8 +112,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **servicios ecosistémicos, valoración.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **servicios ecosistémicos, valoración.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **servicios ecosistémicos**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **valoración**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

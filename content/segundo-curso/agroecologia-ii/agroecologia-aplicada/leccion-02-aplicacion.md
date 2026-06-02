@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **agroecología, práctica, producción.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **agroecología, práctica, producción.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **agroecología**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **producción**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

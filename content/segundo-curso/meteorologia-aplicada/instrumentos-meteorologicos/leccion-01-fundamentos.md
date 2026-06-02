@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **instrumentos, medición, clima.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **instrumentos, medición, clima.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **instrumentos**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **clima**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

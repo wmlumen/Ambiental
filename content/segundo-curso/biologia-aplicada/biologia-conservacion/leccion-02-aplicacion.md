@@ -121,8 +121,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **conservación, especies, áreas protegidas.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **conservación, especies, áreas protegidas.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **conservación**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **áreas protegidas**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

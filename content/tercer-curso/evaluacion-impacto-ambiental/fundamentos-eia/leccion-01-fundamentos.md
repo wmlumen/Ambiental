@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **EIA, fundamentos, marco legal.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **EIA, fundamentos, marco legal.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **EIA**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **marco legal**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 

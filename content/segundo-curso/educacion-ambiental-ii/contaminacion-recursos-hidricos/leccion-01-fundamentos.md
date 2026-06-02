@@ -114,8 +114,8 @@ Esta lección puede imprimirse desde el navegador (Ctrl+P) para trabajar sin con
 
 ### Glosario
 
-- **agua, contaminación hídrica, Paraguay.Split(',')[0].Trim()**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
-- **agua, contaminación hídrica, Paraguay.Split(',')[-1].Trim()**: noción complementaria que amplía la comprensión del tema.
+- **agua**: concepto fundamental de esta unidad que se relaciona directamente con el entorno.
+- **Paraguay**: noción complementaria que amplía la comprensión del tema.
 
 ## Resumen
 
