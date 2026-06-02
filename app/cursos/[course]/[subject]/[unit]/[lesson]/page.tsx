@@ -2,7 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { getAllLessons, getLesson, getSubject, getUnits } from "@/lib/content";
+import { getAllLessons, getLesson, getSubject, getUnits, cleanUnitTitle, cleanLessonTitle } from "@/lib/content";
 import { basePath } from "@/lib/paths";
 
 export function generateStaticParams() {
@@ -45,13 +45,13 @@ export default async function LessonPage({ params }: { params: Promise<{ course:
         <header className="mb-8">
           <div className="flex flex-wrap items-center gap-3 mb-3">
             <span className="badge bg-lagoon-100 text-lagoon-700">
-              {lesson.unitTitle}
+              {cleanUnitTitle(lesson.unitTitle)}
             </span>
             <span className="badge bg-moss-100 text-moss-700">
               {lesson.lessonOrder === 1 ? "Fundamentos" : "Aplicación y proyecto"}
             </span>
           </div>
-          <h1 className="text-3xl md:text-4xl font-bold text-moss-800">{lesson.title}</h1>
+          <h1 className="text-3xl md:text-4xl font-bold text-moss-800">{cleanLessonTitle(lesson.title)}</h1>
           <p className="text-moss-600 mt-3 text-lg">{lesson.description}</p>
         </header>
 
@@ -82,7 +82,7 @@ export default async function LessonPage({ params }: { params: Promise<{ course:
               href={`${basePath}/cursos/${course}/${subjectSlug}/${prevUnit.slug}/leccion-02-aplicacion`}
               className="text-sm text-lagoon-600 hover:text-lagoon-700 flex items-center gap-1"
             >
-              &larr; {prevUnit.title}
+              &larr; {cleanUnitTitle(prevUnit.title)}
             </Link>
           ) : (
             <span />
@@ -92,7 +92,7 @@ export default async function LessonPage({ params }: { params: Promise<{ course:
               href={`${basePath}/cursos/${course}/${subjectSlug}/${nextUnit.slug}/leccion-01-fundamentos`}
               className="text-sm text-lagoon-600 hover:text-lagoon-700 flex items-center gap-1"
             >
-              {nextUnit.title} &rarr;
+              {cleanUnitTitle(nextUnit.title)} &rarr;
             </Link>
           ) : (
             <span />

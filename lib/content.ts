@@ -167,3 +167,11 @@ export function getAllLessons(): { courseSlug: string; courseTitle: string; subj
   }
   return result;
 }
+
+export function cleanUnitTitle(title: string): string {
+  return title.replace(/^Unidad\s+\d+\s*\|\s*/, "");
+}
+
+export function cleanLessonTitle(title: string): string {
+  return title.replace(/^Unidad\s+\d+\s*\|[^|]+\|\s*/, "");
+}
