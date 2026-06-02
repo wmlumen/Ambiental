@@ -2,7 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { getAllLessons, getLesson, getSubject, getUnits, cleanUnitTitle, cleanLessonTitle } from "@/lib/content";
+import { getAllLessons, getLesson, getSubject, getUnits, cleanUnitTitle } from "@/lib/content";
 import { basePath } from "@/lib/paths";
 
 export function generateStaticParams() {
@@ -29,6 +29,8 @@ export default async function LessonPage({ params }: { params: Promise<{ course:
   const otherLesson = isLesson1 ? "leccion-02-aplicacion" : "leccion-01-fundamentos";
   const otherLessonLabel = isLesson1 ? "Lección 2: Aplicación" : "Lección 1: Fundamentos";
 
+  const contentWithoutH1 = lesson.content.replace(/^#\s+.*\n+/, "");
+
   return (
     <div className="max-w-4xl mx-auto px-4 md:px-6 py-12 md:py-16">
       <nav className="text-sm text-moss-500 mb-8 flex flex-wrap gap-x-2 gap-y-1">
@@ -45,13 +47,13 @@ export default async function LessonPage({ params }: { params: Promise<{ course:
         <header className="mb-8">
           <div className="flex flex-wrap items-center gap-3 mb-3">
             <span className="badge bg-lagoon-100 text-lagoon-700">
-              {cleanUnitTitle(lesson.unitTitle)}
+              {lesson.unitTitle}
             </span>
             <span className="badge bg-moss-100 text-moss-700">
               {lesson.lessonOrder === 1 ? "Fundamentos" : "Aplicación y proyecto"}
             </span>
           </div>
-          <h1 className="text-3xl md:text-4xl font-bold text-moss-800">{cleanLessonTitle(lesson.title)}</h1>
+          <h1 className="text-3xl md:text-4xl font-bold text-moss-800">{lesson.title}</h1>
           <p className="text-moss-600 mt-3 text-lg">{lesson.description}</p>
         </header>
 
@@ -63,7 +65,7 @@ export default async function LessonPage({ params }: { params: Promise<{ course:
 
         <div className="prose-content">
           <ReactMarkdown remarkPlugins={[remarkGfm]}>
-            {lesson.content}
+            {contentWithoutH1}
           </ReactMarkdown>
         </div>
 

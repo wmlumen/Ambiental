@@ -46,7 +46,7 @@ export default async function SubjectPage({ params }: { params: Promise<{ course
               {units.map((unit) => (
                 <div key={unit.slug} className="card py-4 px-5">
                   <span className="text-xs text-moss-500 font-medium">Unidad {unit.order}</span>
-                  <h3 className="font-semibold text-moss-800 mt-1">{cleanUnitTitle(unit.title)}</h3>
+                  <h3 className="font-semibold text-moss-800 mt-1">{unit.title}</h3>
                   <div className="flex gap-2 mt-3">
                     <Link
                       href={`${basePath}/cursos/${subject.courseSlug}/${subject.slug}/${unit.slug}/leccion-01-fundamentos`}
