@@ -1,47 +1,47 @@
-﻿---
+---
 title: "Recursos Naturales"
-description: "ValoraciÃ³n, uso sostenible y gestiÃ³n integrada de los recursos naturales del Paraguay."
+description: "Valoración, uso sostenible y gestión integrada de los recursos naturales del Paraguay."
 order: 2
 competencies:
-  - Analiza el estado de los recursos naturales del paÃ­s.
+  - Analiza el estado de los recursos naturales del país.
   - Propone estrategias de uso sostenible.
-  - EvalÃºa impactos del aprovechamiento de recursos.
+  - Evalúa impactos del aprovechamiento de recursos.
 capacities:
-  - Identificar recursos estratÃ©gicos del Paraguay.
-  - Valorar servicios ecosistÃ©micos.
-  - DiseÃ±ar propuestas de manejo responsable.
+  - Identificar recursos estratégicos del Paraguay.
+  - Valorar servicios ecosistémicos.
+  - Diseñar propuestas de manejo responsable.
 profileRelation:
-  - Fortalece la gestiÃ³n estratÃ©gica del patrimonio natural.
+  - Fortalece la gestión estratégica del patrimonio natural.
   - Aporta criterios para el desarrollo sostenible.
 ---
 
 # Recursos Naturales
 
-## IntroducciÃ³n de la asignatura
+## Introducción de la asignatura
 
-ValoraciÃ³n, uso sostenible y gestiÃ³n integrada de los recursos naturales del Paraguay.
+Valoración, uso sostenible y gestión integrada de los recursos naturales del Paraguay.
 
 ## Competencias
 
-- Analiza el estado de los recursos naturales del paÃ­s.
+- Analiza el estado de los recursos naturales del país.
 - Propone estrategias de uso sostenible.
-- EvalÃºa impactos del aprovechamiento de recursos.
+- Evalúa impactos del aprovechamiento de recursos.
 
 ## Capacidades
 
-- Identificar recursos estratÃ©gicos del Paraguay.
-- Valorar servicios ecosistÃ©micos.
-- DiseÃ±ar propuestas de manejo responsable.
+- Identificar recursos estratégicos del Paraguay.
+- Valorar servicios ecosistémicos.
+- Diseñar propuestas de manejo responsable.
 
-## RelaciÃ³n con el perfil de egreso
+## Relación con el perfil de egreso
 
-- Fortalece la gestiÃ³n estratÃ©gica del patrimonio natural.
+- Fortalece la gestión estratégica del patrimonio natural.
 - Aporta criterios para el desarrollo sostenible.
 
-## Unidades didÃ¡cticas
+## Unidades didácticas
 
-- **Unidad 1 | Recursos naturales estratÃ©gicos**
-- **Unidad 2 | Servicios ecosistÃ©micos**
+- **Unidad 1 | Recursos naturales estratégicos**
+- **Unidad 2 | Servicios ecosistémicos**
 - **Unidad 3 | Manejo forestal sostenible**
-- **Unidad 4 | GestiÃ³n de cuencas hÃ­dricas**
-- **Unidad 5 | Ãreas protegidas y corredores**
+- **Unidad 4 | Gestión de cuencas hídricas**
+- **Unidad 5 | Áreas protegidas y corredores**

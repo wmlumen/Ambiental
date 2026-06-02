@@ -1,47 +1,47 @@
-﻿---
-title: "AgroecologÃ­a Avanzada"
-description: "DiseÃ±o de sistemas agroecolÃ³gicos, transiciÃ³n productiva y extensiÃ³n rural."
+---
+title: "Agroecología Avanzada"
+description: "Diseño de sistemas agroecológicos, transición productiva y extensión rural."
 order: 3
 competencies:
-  - DiseÃ±a sistemas agroecolÃ³gicos completos.
-  - Planifica procesos de transiciÃ³n productiva.
-  - Implementa estrategias de extensiÃ³n rural.
+  - Diseña sistemas agroecológicos completos.
+  - Planifica procesos de transición productiva.
+  - Implementa estrategias de extensión rural.
 capacities:
-  - DiseÃ±ar fincas agroecolÃ³gicas integradas.
-  - Evaluar la transiciÃ³n de sistemas convencionales.
-  - Comunicar principios agroecolÃ³gicos a productores.
+  - Diseñar fincas agroecológicas integradas.
+  - Evaluar la transición de sistemas convencionales.
+  - Comunicar principios agroecológicos a productores.
 profileRelation:
-  - Aporta liderazgo en producciÃ³n sostenible.
-  - Fortalece la vinculaciÃ³n entre escuela y finca.
+  - Aporta liderazgo en producción sostenible.
+  - Fortalece la vinculación entre escuela y finca.
 ---
 
-# AgroecologÃ­a Avanzada
+# Agroecología Avanzada
 
-## IntroducciÃ³n de la asignatura
+## Introducción de la asignatura
 
-DiseÃ±o de sistemas agroecolÃ³gicos, transiciÃ³n productiva y extensiÃ³n rural.
+Diseño de sistemas agroecológicos, transición productiva y extensión rural.
 
 ## Competencias
 
-- DiseÃ±a sistemas agroecolÃ³gicos completos.
-- Planifica procesos de transiciÃ³n productiva.
-- Implementa estrategias de extensiÃ³n rural.
+- Diseña sistemas agroecológicos completos.
+- Planifica procesos de transición productiva.
+- Implementa estrategias de extensión rural.
 
 ## Capacidades
 
-- DiseÃ±ar fincas agroecolÃ³gicas integradas.
-- Evaluar la transiciÃ³n de sistemas convencionales.
-- Comunicar principios agroecolÃ³gicos a productores.
+- Diseñar fincas agroecológicas integradas.
+- Evaluar la transición de sistemas convencionales.
+- Comunicar principios agroecológicos a productores.
 
-## RelaciÃ³n con el perfil de egreso
+## Relación con el perfil de egreso
 
-- Aporta liderazgo en producciÃ³n sostenible.
-- Fortalece la vinculaciÃ³n entre escuela y finca.
+- Aporta liderazgo en producción sostenible.
+- Fortalece la vinculación entre escuela y finca.
 
-## Unidades didÃ¡cticas
+## Unidades didácticas
 
-- **Unidad 1 | DiseÃ±o de fincas agroecolÃ³gicas**
-- **Unidad 2 | TransiciÃ³n agroecolÃ³gica**
-- **Unidad 3 | ExtensiÃ³n y comunicaciÃ³n rural**
-- **Unidad 4 | AgroecologÃ­a y cambio climÃ¡tico**
-- **Unidad 5 | Proyecto integrador agroecolÃ³gico**
+- **Unidad 1 | Diseño de fincas agroecológicas**
+- **Unidad 2 | Transición agroecológica**
+- **Unidad 3 | Extensión y comunicación rural**
+- **Unidad 4 | Agroecología y cambio climático**
+- **Unidad 5 | Proyecto integrador agroecológico**

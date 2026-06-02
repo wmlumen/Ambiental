@@ -1,47 +1,47 @@
-﻿---
-title: "EducaciÃ³n Ambiental"
-description: "IntroducciÃ³n al ambiente, ecosistemas, problemas ambientales y conciencia ecolÃ³gica."
+---
+title: "Educación Ambiental"
+description: "Introducción al ambiente, ecosistemas, problemas ambientales y conciencia ecológica."
 order: 1
 competencies:
-  - Comprende los fundamentos de la educaciÃ³n ambiental.
+  - Comprende los fundamentos de la educación ambiental.
   - Reconoce los principales problemas ambientales globales y locales.
-  - Relaciona educaciÃ³n y cuidado del ambiente.
+  - Relaciona educación y cuidado del ambiente.
 capacities:
-  - Identificar conceptos bÃ¡sicos de ambiente y ecologÃ­a.
+  - Identificar conceptos básicos de ambiente y ecología.
   - Describir problemas ambientales del Paraguay.
-  - Proponer acciones de concienciaciÃ³n bÃ¡sicas.
+  - Proponer acciones de concienciación básicas.
 profileRelation:
   - Fortalece la conciencia ambiental del egresado.
-  - Aporta bases para el anÃ¡lisis del entorno.
+  - Aporta bases para el análisis del entorno.
 ---
 
-# EducaciÃ³n Ambiental
+# Educación Ambiental
 
-## IntroducciÃ³n de la asignatura
+## Introducción de la asignatura
 
-IntroducciÃ³n al ambiente, ecosistemas, problemas ambientales y conciencia ecolÃ³gica.
+Introducción al ambiente, ecosistemas, problemas ambientales y conciencia ecológica.
 
 ## Competencias
 
-- Comprende los fundamentos de la educaciÃ³n ambiental.
+- Comprende los fundamentos de la educación ambiental.
 - Reconoce los principales problemas ambientales globales y locales.
-- Relaciona educaciÃ³n y cuidado del ambiente.
+- Relaciona educación y cuidado del ambiente.
 
 ## Capacidades
 
-- Identificar conceptos bÃ¡sicos de ambiente y ecologÃ­a.
+- Identificar conceptos básicos de ambiente y ecología.
 - Describir problemas ambientales del Paraguay.
-- Proponer acciones de concienciaciÃ³n bÃ¡sicas.
+- Proponer acciones de concienciación básicas.
 
-## RelaciÃ³n con el perfil de egreso
+## Relación con el perfil de egreso
 
 - Fortalece la conciencia ambiental del egresado.
-- Aporta bases para el anÃ¡lisis del entorno.
+- Aporta bases para el análisis del entorno.
 
-## Unidades didÃ¡cticas
+## Unidades didácticas
 
 - **Unidad 1 | Ambiente y ecosistemas**
 - **Unidad 2 | Problemas ambientales globales**
 - **Unidad 3 | Problemas ambientales del Paraguay**
-- **Unidad 4 | Conciencia y Ã©tica ambiental**
-- **Unidad 5 | EducaciÃ³n ambiental comunitaria**
+- **Unidad 4 | Conciencia y ética ambiental**
+- **Unidad 5 | Educación ambiental comunitaria**

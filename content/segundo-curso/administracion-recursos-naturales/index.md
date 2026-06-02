@@ -1,47 +1,47 @@
-﻿---
-title: "AdministraciÃ³n de los Recursos Naturales"
-description: "IntroducciÃ³n al uso responsable, valoraciÃ³n y manejo inicial de los recursos naturales."
+---
+title: "Administración de los Recursos Naturales"
+description: "Introducción al uso responsable, valoración y manejo inicial de los recursos naturales."
 order: 5
 competencies:
   - Reconoce la importancia de los recursos naturales para la vida y el desarrollo.
-  - Analiza formas bÃ¡sicas de uso y conservaciÃ³n.
+  - Analiza formas básicas de uso y conservación.
   - Relaciona aprovechamiento y sostenibilidad.
 capacities:
   - Identificar tipos de recursos naturales.
   - Distinguir usos responsables e irresponsables.
-  - Relacionar manejo y conservaciÃ³n.
+  - Relacionar manejo y conservación.
 profileRelation:
   - Aporta bases para el manejo sostenible del ambiente.
   - Fortalece decisiones sobre uso responsable de recursos.
 ---
 
-# AdministraciÃ³n de los Recursos Naturales
+# Administración de los Recursos Naturales
 
-## IntroducciÃ³n de la asignatura
+## Introducción de la asignatura
 
-IntroducciÃ³n al uso responsable, valoraciÃ³n y manejo inicial de los recursos naturales.
+Introducción al uso responsable, valoración y manejo inicial de los recursos naturales.
 
 ## Competencias
 
 - Reconoce la importancia de los recursos naturales para la vida y el desarrollo.
-- Analiza formas bÃ¡sicas de uso y conservaciÃ³n.
+- Analiza formas básicas de uso y conservación.
 - Relaciona aprovechamiento y sostenibilidad.
 
 ## Capacidades
 
 - Identificar tipos de recursos naturales.
 - Distinguir usos responsables e irresponsables.
-- Relacionar manejo y conservaciÃ³n.
+- Relacionar manejo y conservación.
 
-## RelaciÃ³n con el perfil de egreso
+## Relación con el perfil de egreso
 
 - Aporta bases para el manejo sostenible del ambiente.
 - Fortalece decisiones sobre uso responsable de recursos.
 
-## Unidades didÃ¡cticas
+## Unidades didácticas
 
 - **Unidad 1 | Recursos naturales y ambiente**
 - **Unidad 2 | Agua, suelo y bosque**
 - **Unidad 3 | Uso sostenible del territorio**
-- **Unidad 4 | Problemas de degradaciÃ³n**
-- **Unidad 5 | ConservaciÃ³n y manejo comunitario**
+- **Unidad 4 | Problemas de degradación**
+- **Unidad 5 | Conservación y manejo comunitario**

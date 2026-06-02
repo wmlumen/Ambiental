@@ -1,63 +1,63 @@
-﻿---
-title: "Unidad 3 | FenÃ³menos extremos | LecciÃ³n 2 | AplicaciÃ³n y proyecto"
-description: "MicrolecciÃ³n aplicada centrada en propuesta, organizaciÃ³n de acciones y seguimiento."
-unitTitle: "Unidad 3 | FenÃ³menos extremos"
-unitDescription: "sequÃ­as, inundaciones, heladas y olas de calor"
+---
+title: "Unidad 3 | Fenómenos extremos | Lección 2 | Aplicación y proyecto"
+description: "Microlección aplicada centrada en propuesta, organización de acciones y seguimiento."
+unitTitle: "Unidad 3 | Fenómenos extremos"
+unitDescription: "sequías, inundaciones, heladas y olas de calor"
 unitOrder: 3
 lessonOrder: 2
 topics:
-  - fenÃ³menos extremos
+  - fenómenos extremos
   - riesgo
-  - prevenciÃ³n
+  - prevención
 ---
 
-# Unidad 3 | FenÃ³menos extremos | LecciÃ³n 2 | AplicaciÃ³n y proyecto
+# Unidad 3 | Fenómenos extremos | Lección 2 | Aplicación y proyecto
 
 ## Objetivos de aprendizaje
 
-- Comprender las ideas centrales de sequÃ­as, inundaciones, heladas y olas de calor.
+- Comprender las ideas centrales de sequías, inundaciones, heladas y olas de calor.
 - Relacionar el contenido con situaciones ambientales del Paraguay.
 - Organizar observaciones, conceptos o acciones en un formato claro.
-- Comunicar una interpretaciÃ³n con lenguaje tÃ©cnico sencillo.
+- Comunicar una interpretación con lenguaje técnico sencillo.
 - Vincular la unidad con la vida escolar y comunitaria.
 
 ## Contenido
 
-En MeteorologÃ­a Aplicada, esta microlecciÃ³n aborda sequÃ­as, inundaciones, heladas y olas de calor como parte del recorrido formativo de la unidad. Se trabaja con ejemplos cercanos del Paraguay, situaciones escolares y problemas ambientales reales para que el contenido no quede solo en definiciones.
+En Meteorología Aplicada, esta microlección aborda sequías, inundaciones, heladas y olas de calor como parte del recorrido formativo de la unidad. Se trabaja con ejemplos cercanos del Paraguay, situaciones escolares y problemas ambientales reales para que el contenido no quede solo en definiciones.
 
-El desarrollo busca que el estudiante relacione conceptos, territorio y comunidad. Por eso, el tema se presenta con lenguaje claro, organizaciÃ³n progresiva y referencias a prÃ¡cticas, observaciones o decisiones que pueden discutirse dentro del aula.
+El desarrollo busca que el estudiante relacione conceptos, territorio y comunidad. Por eso, el tema se presenta con lenguaje claro, organización progresiva y referencias a prácticas, observaciones o decisiones que pueden discutirse dentro del aula.
 
-TambiÃ©n se promueve el uso de cuadros, listas de observaciÃ³n, registros y esquemas simples. Eso ayuda a transformar la lectura del tema en una base Ãºtil para el anÃ¡lisis o para una acciÃ³n posterior.
+También se promueve el uso de cuadros, listas de observación, registros y esquemas simples. Eso ayuda a transformar la lectura del tema en una base útil para el análisis o para una acción posterior.
 
-[imagen: sequÃ­as, inundaciones, heladas y olas de calor]
-[diagrama: relaciones principales de sequÃ­as, inundaciones, heladas y olas de calor]
-[infografÃ­a: pasos clave para estudiar sequÃ­as, inundaciones, heladas y olas de calor]
+[imagen: sequías, inundaciones, heladas y olas de calor]
+[diagrama: relaciones principales de sequías, inundaciones, heladas y olas de calor]
+[infografía: pasos clave para estudiar sequías, inundaciones, heladas y olas de calor]
 
 ## Ejemplo aplicado
 
-En Paraguay, este tema puede observarse en comunidades, escuelas, barrios, fincas familiares o espacios pÃºblicos donde el ambiente se relaciona con decisiones concretas. La unidad ayuda a leer mejor esas situaciones y a reconocer por quÃ© es importante comprender el tema antes de intervenir.
+En Paraguay, este tema puede observarse en comunidades, escuelas, barrios, fincas familiares o espacios públicos donde el ambiente se relaciona con decisiones concretas. La unidad ayuda a leer mejor esas situaciones y a reconocer por qué es importante comprender el tema antes de intervenir.
 
 ## Actividad
 
-Como trabajo de esta microlecciÃ³n, organiza una propuesta breve para la escuela o la comunidad, con acciones, responsables y una forma simple de seguimiento.
+Como trabajo de esta microlección, organiza una propuesta breve para la escuela o la comunidad, con acciones, responsables y una forma simple de seguimiento.
 
-## AutoevaluaciÃ³n
+## Autoevaluación
 
-- **OpciÃ³n mÃºltiple:** Â¿QuÃ© acciÃ³n corresponde mejor al trabajo de esta microlecciÃ³n?
+- **Opción múltiple:** ¿Qué acción corresponde mejor al trabajo de esta microlección?
   - Definir acciones, responsables y seguimiento.
-  - Actuar sin comprensiÃ³n del tema.
-  - Copiar informaciÃ³n sin relaciÃ³n con el contexto.
-  - Evitar toda revisiÃ³n del contenido.
+  - Actuar sin comprensión del tema.
+  - Copiar información sin relación con el contexto.
+  - Evitar toda revisión del contenido.
 - **Respuesta esperada:** Definir acciones, responsables y seguimiento.
 
 - **Verdadero o falso:** Este contenido puede relacionarse con situaciones reales de la escuela o de la comunidad.
 - **Respuesta esperada:** Verdadero
 
-- **ReflexiÃ³n:** Â¿CÃ³mo se relaciona esta unidad con una situaciÃ³n ambiental cercana a tu curso?
+- **Reflexión:** ¿Cómo se relaciona esta unidad con una situación ambiental cercana a tu curso?
 
 ## Resumen
 
-- sequÃ­as, inundaciones, heladas y olas de calor se estudia con relaciÃ³n al territorio y a la vida comunitaria.
-- La unidad fortalece comprensiÃ³n, organizaciÃ³n y aplicaciÃ³n del contenido.
+- sequías, inundaciones, heladas y olas de calor se estudia con relación al territorio y a la vida comunitaria.
+- La unidad fortalece comprensión, organización y aplicación del contenido.
 - El contexto paraguayo ofrece ejemplos cercanos para interpretar el tema.
-- Esta microlecciÃ³n sirve como base para seguir profundizando la asignatura.
+- Esta microlección sirve como base para seguir profundizando la asignatura.

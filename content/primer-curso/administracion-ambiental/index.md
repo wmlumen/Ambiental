@@ -1,47 +1,47 @@
-﻿---
-title: "AdministraciÃ³n Ambiental"
-description: "Bases de administraciÃ³n aplicada a la gestiÃ³n de recursos y proyectos ambientales."
+---
+title: "Administración Ambiental"
+description: "Bases de administración aplicada a la gestión de recursos y proyectos ambientales."
 order: 4
 competencies:
-  - Comprende nociones bÃ¡sicas de administraciÃ³n ambiental.
-  - Relaciona gestiÃ³n, recursos y sostenibilidad.
-  - Organiza informaciÃ³n para la toma de decisiones.
+  - Comprende nociones básicas de administración ambiental.
+  - Relaciona gestión, recursos y sostenibilidad.
+  - Organiza información para la toma de decisiones.
 capacities:
-  - Identificar principios de administraciÃ³n.
-  - Relacionar planificaciÃ³n y ambiente.
-  - Organizar datos bÃ¡sicos de gestiÃ³n.
+  - Identificar principios de administración.
+  - Relacionar planificación y ambiente.
+  - Organizar datos básicos de gestión.
 profileRelation:
-  - Aporta herramientas de gestiÃ³n ambiental.
-  - Vincula administraciÃ³n y cuidado del territorio.
+  - Aporta herramientas de gestión ambiental.
+  - Vincula administración y cuidado del territorio.
 ---
 
-# AdministraciÃ³n Ambiental
+# Administración Ambiental
 
-## IntroducciÃ³n de la asignatura
+## Introducción de la asignatura
 
-Bases de administraciÃ³n aplicada a la gestiÃ³n de recursos y proyectos ambientales.
+Bases de administración aplicada a la gestión de recursos y proyectos ambientales.
 
 ## Competencias
 
-- Comprende nociones bÃ¡sicas de administraciÃ³n ambiental.
-- Relaciona gestiÃ³n, recursos y sostenibilidad.
-- Organiza informaciÃ³n para la toma de decisiones.
+- Comprende nociones básicas de administración ambiental.
+- Relaciona gestión, recursos y sostenibilidad.
+- Organiza información para la toma de decisiones.
 
 ## Capacidades
 
-- Identificar principios de administraciÃ³n.
-- Relacionar planificaciÃ³n y ambiente.
-- Organizar datos bÃ¡sicos de gestiÃ³n.
+- Identificar principios de administración.
+- Relacionar planificación y ambiente.
+- Organizar datos básicos de gestión.
 
-## RelaciÃ³n con el perfil de egreso
+## Relación con el perfil de egreso
 
-- Aporta herramientas de gestiÃ³n ambiental.
-- Vincula administraciÃ³n y cuidado del territorio.
+- Aporta herramientas de gestión ambiental.
+- Vincula administración y cuidado del territorio.
 
-## Unidades didÃ¡cticas
+## Unidades didácticas
 
-- **Unidad 1 | AdministraciÃ³n y ambiente**
-- **Unidad 2 | PlanificaciÃ³n ambiental**
-- **Unidad 3 | OrganizaciÃ³n y recursos**
-- **Unidad 4 | EjecuciÃ³n y monitoreo**
-- **Unidad 5 | EvaluaciÃ³n y mejora continua**
+- **Unidad 1 | Administración y ambiente**
+- **Unidad 2 | Planificación ambiental**
+- **Unidad 3 | Organización y recursos**
+- **Unidad 4 | Ejecución y monitoreo**
+- **Unidad 5 | Evaluación y mejora continua**

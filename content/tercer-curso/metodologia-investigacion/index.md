@@ -1,47 +1,47 @@
-﻿---
-title: "MetodologÃ­a de la InvestigaciÃ³n"
-description: "Herramientas para observar, registrar, preguntar y ordenar informaciÃ³n ambiental."
+---
+title: "Metodología de la Investigación"
+description: "Herramientas para observar, registrar, preguntar y ordenar información ambiental."
 order: 7
 competencies:
   - Comprende el valor de investigar problemas del entorno.
   - Organiza preguntas, observaciones y registros.
-  - Relaciona investigaciÃ³n y toma de decisiones.
+  - Relaciona investigación y toma de decisiones.
 capacities:
-  - Formular preguntas de investigaciÃ³n.
+  - Formular preguntas de investigación.
   - Registrar datos del entorno.
-  - Ordenar informaciÃ³n en cuadros y fichas.
+  - Ordenar información en cuadros y fichas.
 profileRelation:
-  - Fortalece el pensamiento analÃ­tico.
-  - Aporta herramientas para el diagnÃ³stico ambiental.
+  - Fortalece el pensamiento analítico.
+  - Aporta herramientas para el diagnóstico ambiental.
 ---
 
-# MetodologÃ­a de la InvestigaciÃ³n
+# Metodología de la Investigación
 
-## IntroducciÃ³n de la asignatura
+## Introducción de la asignatura
 
-Herramientas para observar, registrar, preguntar y ordenar informaciÃ³n ambiental.
+Herramientas para observar, registrar, preguntar y ordenar información ambiental.
 
 ## Competencias
 
 - Comprende el valor de investigar problemas del entorno.
 - Organiza preguntas, observaciones y registros.
-- Relaciona investigaciÃ³n y toma de decisiones.
+- Relaciona investigación y toma de decisiones.
 
 ## Capacidades
 
-- Formular preguntas de investigaciÃ³n.
+- Formular preguntas de investigación.
 - Registrar datos del entorno.
-- Ordenar informaciÃ³n en cuadros y fichas.
+- Ordenar información en cuadros y fichas.
 
-## RelaciÃ³n con el perfil de egreso
+## Relación con el perfil de egreso
 
-- Fortalece el pensamiento analÃ­tico.
-- Aporta herramientas para el diagnÃ³stico ambiental.
+- Fortalece el pensamiento analítico.
+- Aporta herramientas para el diagnóstico ambiental.
 
-## Unidades didÃ¡cticas
+## Unidades didácticas
 
-- **Unidad 1 | Problema y pregunta de investigaciÃ³n**
-- **Unidad 2 | ObservaciÃ³n y registro**
-- **Unidad 3 | Fuentes e informaciÃ³n**
-- **Unidad 4 | AnÃ¡lisis de datos**
-- **Unidad 5 | Informe y comunicaciÃ³n de resultados**
+- **Unidad 1 | Problema y pregunta de investigación**
+- **Unidad 2 | Observación y registro**
+- **Unidad 3 | Fuentes e información**
+- **Unidad 4 | Análisis de datos**
+- **Unidad 5 | Informe y comunicación de resultados**

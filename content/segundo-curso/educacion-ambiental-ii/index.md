@@ -1,47 +1,47 @@
-﻿---
-title: "EducaciÃ³n Ambiental II"
-description: "ProfundizaciÃ³n en anÃ¡lisis de contaminantes, recursos hÃ­dricos, suelo y concienciaciÃ³n comunitaria."
+---
+title: "Educación Ambiental II"
+description: "Profundización en análisis de contaminantes, recursos hídricos, suelo y concienciación comunitaria."
 order: 1
 competencies:
   - Analiza las influencias ambientales en la calidad de vida.
-  - Investiga tipos de contaminantes y su dispersiÃ³n.
-  - Promueve campaÃ±as de concienciaciÃ³n comunitaria.
+  - Investiga tipos de contaminantes y su dispersión.
+  - Promueve campañas de concienciación comunitaria.
 capacities:
-  - Identificar contaminaciÃ³n por sustancias quÃ­micas.
-  - Conocer enfermedades de transmisiÃ³n hÃ­drica.
-  - Plantear alternativas educativas a la contaminaciÃ³n.
+  - Identificar contaminación por sustancias químicas.
+  - Conocer enfermedades de transmisión hídrica.
+  - Plantear alternativas educativas a la contaminación.
 profileRelation:
-  - Fortalece la capacidad de anÃ¡lisis y prevenciÃ³n.
+  - Fortalece la capacidad de análisis y prevención.
   - Vincula salud ambiental y responsabilidad social.
 ---
 
-# EducaciÃ³n Ambiental II
+# Educación Ambiental II
 
-## IntroducciÃ³n de la asignatura
+## Introducción de la asignatura
 
-ProfundizaciÃ³n en anÃ¡lisis de contaminantes, recursos hÃ­dricos, suelo y concienciaciÃ³n comunitaria.
+Profundización en análisis de contaminantes, recursos hídricos, suelo y concienciación comunitaria.
 
 ## Competencias
 
 - Analiza las influencias ambientales en la calidad de vida.
-- Investiga tipos de contaminantes y su dispersiÃ³n.
-- Promueve campaÃ±as de concienciaciÃ³n comunitaria.
+- Investiga tipos de contaminantes y su dispersión.
+- Promueve campañas de concienciación comunitaria.
 
 ## Capacidades
 
-- Identificar contaminaciÃ³n por sustancias quÃ­micas.
-- Conocer enfermedades de transmisiÃ³n hÃ­drica.
-- Plantear alternativas educativas a la contaminaciÃ³n.
+- Identificar contaminación por sustancias químicas.
+- Conocer enfermedades de transmisión hídrica.
+- Plantear alternativas educativas a la contaminación.
 
-## RelaciÃ³n con el perfil de egreso
+## Relación con el perfil de egreso
 
-- Fortalece la capacidad de anÃ¡lisis y prevenciÃ³n.
+- Fortalece la capacidad de análisis y prevención.
 - Vincula salud ambiental y responsabilidad social.
 
-## Unidades didÃ¡cticas
+## Unidades didácticas
 
-- **Unidad 1 | ContaminaciÃ³n y calidad de vida**
-- **Unidad 2 | ContaminaciÃ³n de recursos hÃ­dricos**
-- **Unidad 3 | ContaminaciÃ³n del suelo**
+- **Unidad 1 | Contaminación y calidad de vida**
+- **Unidad 2 | Contaminación de recursos hídricos**
+- **Unidad 3 | Contaminación del suelo**
 - **Unidad 4 | Enfermedades de origen ambiental**
-- **Unidad 5 | ConcienciaciÃ³n y medios**
+- **Unidad 5 | Concienciación y medios**

@@ -1,47 +1,47 @@
-﻿---
-title: "EvaluaciÃ³n de Impacto Ambiental"
-description: "MetodologÃ­as de EIA, estudios de caso y aplicaciÃ³n al contexto paraguayo."
+---
+title: "Evaluación de Impacto Ambiental"
+description: "Metodologías de EIA, estudios de caso y aplicación al contexto paraguayo."
 order: 4
 competencies:
-  - Comprende los fundamentos de la evaluaciÃ³n de impacto.
-  - Aplica metodologÃ­as bÃ¡sicas de EIA.
+  - Comprende los fundamentos de la evaluación de impacto.
+  - Aplica metodologías básicas de EIA.
   - Analiza estudios de caso del Paraguay.
 capacities:
   - Identificar impactos de proyectos.
   - Aplicar matrices y listas de chequeo.
-  - Proponer medidas de mitigaciÃ³n y compensaciÃ³n.
+  - Proponer medidas de mitigación y compensación.
 profileRelation:
-  - Fortalece la capacidad preventiva y de anÃ¡lisis.
-  - Aporta herramientas para la gestiÃ³n de proyectos.
+  - Fortalece la capacidad preventiva y de análisis.
+  - Aporta herramientas para la gestión de proyectos.
 ---
 
-# EvaluaciÃ³n de Impacto Ambiental
+# Evaluación de Impacto Ambiental
 
-## IntroducciÃ³n de la asignatura
+## Introducción de la asignatura
 
-MetodologÃ­as de EIA, estudios de caso y aplicaciÃ³n al contexto paraguayo.
+Metodologías de EIA, estudios de caso y aplicación al contexto paraguayo.
 
 ## Competencias
 
-- Comprende los fundamentos de la evaluaciÃ³n de impacto.
-- Aplica metodologÃ­as bÃ¡sicas de EIA.
+- Comprende los fundamentos de la evaluación de impacto.
+- Aplica metodologías básicas de EIA.
 - Analiza estudios de caso del Paraguay.
 
 ## Capacidades
 
 - Identificar impactos de proyectos.
 - Aplicar matrices y listas de chequeo.
-- Proponer medidas de mitigaciÃ³n y compensaciÃ³n.
+- Proponer medidas de mitigación y compensación.
 
-## RelaciÃ³n con el perfil de egreso
+## Relación con el perfil de egreso
 
-- Fortalece la capacidad preventiva y de anÃ¡lisis.
-- Aporta herramientas para la gestiÃ³n de proyectos.
+- Fortalece la capacidad preventiva y de análisis.
+- Aporta herramientas para la gestión de proyectos.
 
-## Unidades didÃ¡cticas
+## Unidades didácticas
 
 - **Unidad 1 | Fundamentos de la EIA**
-- **Unidad 2 | IdentificaciÃ³n y valoraciÃ³n de impactos**
-- **Unidad 3 | Medidas de mitigaciÃ³n y compensaciÃ³n**
-- **Unidad 4 | ParticipaciÃ³n pÃºblica en la EIA**
+- **Unidad 2 | Identificación y valoración de impactos**
+- **Unidad 3 | Medidas de mitigación y compensación**
+- **Unidad 4 | Participación pública en la EIA**
 - **Unidad 5 | Estudios de caso en Paraguay**

@@ -1,47 +1,47 @@
-﻿---
-title: "AgroecologÃ­a II"
-description: "AplicaciÃ³n de principios agroecolÃ³gicos, manejo integrado y producciÃ³n sostenible."
+---
+title: "Agroecología II"
+description: "Aplicación de principios agroecológicos, manejo integrado y producción sostenible."
 order: 2
 competencies:
-  - Aplica principios agroecolÃ³gicos en contextos productivos.
-  - DiseÃ±a sistemas de producciÃ³n ecolÃ³gica.
-  - EvalÃºa prÃ¡cticas agroecolÃ³gicas.
+  - Aplica principios agroecológicos en contextos productivos.
+  - Diseña sistemas de producción ecológica.
+  - Evalúa prácticas agroecológicas.
 capacities:
   - Planificar rotaciones y asociaciones de cultivos.
-  - Implementar tÃ©cnicas de conservaciÃ³n de suelo.
+  - Implementar técnicas de conservación de suelo.
   - Evaluar sostenibilidad de sistemas productivos.
 profileRelation:
-  - Fortalece competencias para la producciÃ³n sostenible.
+  - Fortalece competencias para la producción sostenible.
   - Aporta herramientas para el desarrollo rural.
 ---
 
-# AgroecologÃ­a II
+# Agroecología II
 
-## IntroducciÃ³n de la asignatura
+## Introducción de la asignatura
 
-AplicaciÃ³n de principios agroecolÃ³gicos, manejo integrado y producciÃ³n sostenible.
+Aplicación de principios agroecológicos, manejo integrado y producción sostenible.
 
 ## Competencias
 
-- Aplica principios agroecolÃ³gicos en contextos productivos.
-- DiseÃ±a sistemas de producciÃ³n ecolÃ³gica.
-- EvalÃºa prÃ¡cticas agroecolÃ³gicas.
+- Aplica principios agroecológicos en contextos productivos.
+- Diseña sistemas de producción ecológica.
+- Evalúa prácticas agroecológicas.
 
 ## Capacidades
 
 - Planificar rotaciones y asociaciones de cultivos.
-- Implementar tÃ©cnicas de conservaciÃ³n de suelo.
+- Implementar técnicas de conservación de suelo.
 - Evaluar sostenibilidad de sistemas productivos.
 
-## RelaciÃ³n con el perfil de egreso
+## Relación con el perfil de egreso
 
-- Fortalece competencias para la producciÃ³n sostenible.
+- Fortalece competencias para la producción sostenible.
 - Aporta herramientas para el desarrollo rural.
 
-## Unidades didÃ¡cticas
+## Unidades didácticas
 
-- **Unidad 1 | AgroecologÃ­a aplicada**
+- **Unidad 1 | Agroecología aplicada**
 - **Unidad 2 | Manejo integrado de cultivos**
-- **Unidad 3 | GanaderÃ­a ecolÃ³gica**
-- **Unidad 4 | ComercializaciÃ³n y certificaciÃ³n**
-- **Unidad 5 | Proyecto agroecolÃ³gico escolar**
+- **Unidad 3 | Ganadería ecológica**
+- **Unidad 4 | Comercialización y certificación**
+- **Unidad 5 | Proyecto agroecológico escolar**

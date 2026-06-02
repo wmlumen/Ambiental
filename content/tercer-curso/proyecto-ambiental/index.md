@@ -1,31 +1,31 @@
-﻿---
+---
 title: "Proyecto Ambiental Integrador"
-description: "DiseÃ±o, ejecuciÃ³n y evaluaciÃ³n del proyecto final de la especialidad."
+description: "Diseño, ejecución y evaluación del proyecto final de la especialidad."
 order: 5
 competencies:
-  - DiseÃ±a un proyecto ambiental completo.
+  - Diseña un proyecto ambiental completo.
   - Ejecuta acciones planificadas con seguimiento.
-  - EvalÃºa resultados y comunica hallazgos.
+  - Evalúa resultados y comunica hallazgos.
 capacities:
   - Formular problemas y objetivos ambientales.
   - Planificar acciones, recursos y cronograma.
   - Evaluar resultados con indicadores.
 profileRelation:
-  - Demuestra integraciÃ³n de competencias de la especialidad.
-  - Aporta experiencia de proyecto para la inserciÃ³n laboral.
+  - Demuestra integración de competencias de la especialidad.
+  - Aporta experiencia de proyecto para la inserción laboral.
 ---
 
 # Proyecto Ambiental Integrador
 
-## IntroducciÃ³n de la asignatura
+## Introducción de la asignatura
 
-DiseÃ±o, ejecuciÃ³n y evaluaciÃ³n del proyecto final de la especialidad.
+Diseño, ejecución y evaluación del proyecto final de la especialidad.
 
 ## Competencias
 
-- DiseÃ±a un proyecto ambiental completo.
+- Diseña un proyecto ambiental completo.
 - Ejecuta acciones planificadas con seguimiento.
-- EvalÃºa resultados y comunica hallazgos.
+- Evalúa resultados y comunica hallazgos.
 
 ## Capacidades
 
@@ -33,15 +33,15 @@ DiseÃ±o, ejecuciÃ³n y evaluaciÃ³n del proyecto final de la especialidad.
 - Planificar acciones, recursos y cronograma.
 - Evaluar resultados con indicadores.
 
-## RelaciÃ³n con el perfil de egreso
+## Relación con el perfil de egreso
 
-- Demuestra integraciÃ³n de competencias de la especialidad.
-- Aporta experiencia de proyecto para la inserciÃ³n laboral.
+- Demuestra integración de competencias de la especialidad.
+- Aporta experiencia de proyecto para la inserción laboral.
 
-## Unidades didÃ¡cticas
+## Unidades didácticas
 
-- **Unidad 1 | FormulaciÃ³n del proyecto**
-- **Unidad 2 | PlanificaciÃ³n de recursos**
-- **Unidad 3 | EjecuciÃ³n y monitoreo**
-- **Unidad 4 | EvaluaciÃ³n de resultados**
-- **Unidad 5 | ComunicaciÃ³n del proyecto**
+- **Unidad 1 | Formulación del proyecto**
+- **Unidad 2 | Planificación de recursos**
+- **Unidad 3 | Ejecución y monitoreo**
+- **Unidad 4 | Evaluación de resultados**
+- **Unidad 5 | Comunicación del proyecto**

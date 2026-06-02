@@ -1,5 +1,10 @@
-$ErrorActionPreference = "Stop"
+﻿$ErrorActionPreference = "Stop"
 $root = Join-Path (Split-Path $PSScriptRoot -Parent) "content"
+$utf8NoBom = New-Object System.Text.UTF8Encoding $false
+
+function Write-File($path, $content) {
+  [System.IO.File]::WriteAllText($path, $content, $utf8NoBom)
+}
 
 function New-LessonContent($subjectTitle, $unitTitle, $unitDesc, $unitOrder, $lessonOrder, $topics) {
   $lessonLabel = if ($lessonOrder -eq 1) { "Lección 1 | Fundamentos" } else { "Lección 2 | Aplicación y proyecto" }
@@ -119,14 +124,14 @@ $profile
 
 $unitsList
 "@
-  Set-Content -Path (Join-Path $subjectDir "index.md") -Value $index -Encoding utf8
+  Write-File (Join-Path $subjectDir "index.md") $index
 
   $u = 1
   foreach ($unit in $subjectData.Units) {
     $unitDir = Join-Path $subjectDir $unit[2]
     New-Item -ItemType Directory -Path $unitDir -Force | Out-Null
-    Set-Content -Path (Join-Path $unitDir "leccion-01-fundamentos.md") -Value (New-LessonContent $subjectData.Title $unit[0] $unit[1] $u 1 $unit[3]) -Encoding utf8
-    Set-Content -Path (Join-Path $unitDir "leccion-02-aplicacion.md") -Value (New-LessonContent $subjectData.Title $unit[0] $unit[1] $u 2 $unit[3]) -Encoding utf8
+    Write-File (Join-Path $unitDir "leccion-01-fundamentos.md") (New-LessonContent $subjectData.Title $unit[0] $unit[1] $u 1 $unit[3])
+    Write-File (Join-Path $unitDir "leccion-02-aplicacion.md") (New-LessonContent $subjectData.Title $unit[0] $unit[1] $u 2 $unit[3])
     $u++
   }
 }
